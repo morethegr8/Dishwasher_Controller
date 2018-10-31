@@ -1,6 +1,6 @@
 # Custom firmware for Electrolux/Hobart Hood Type Dishwasher Control Board
 
-This is a custom firmware for Atmel controller based Control Board made for Dishwasher (Electrolux/Hobart hood type). It uses the Atmel Studio for ATMEGA328P framework and a number of 3rd party libraries. 
+This is a custom firmware for Atmel controller based Control Board made for Dishwasher (Electrolux/Hobart hood type). It uses the Atmel Studio for ATMEGA328P and a number of 3rd party libraries. 
 
 ## Contribute
 
@@ -13,7 +13,12 @@ There are several ways to contribute to Dishwasher development. You can contribu
 And of course you can always buy me a beer, coffee, tea,... via the donation button below.
 
 
-## Supported hardware
+## Hardware
+
+||
+|---|
+|![Dishwasher](images/Dishwasher IO.jpg)||
+|**Dishwasher IO**||
 
 ## License
 
