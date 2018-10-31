@@ -31,10 +31,11 @@ int READBYTE=0x00;
 
 
 
-enum status{  HOLD,
-			  READY,
-			  RUN		
-			} wash_status;  
+enum status {
+		HOLD,
+		READY,
+		RUN 
+} wash_status;  
 
 
 int main(void)
