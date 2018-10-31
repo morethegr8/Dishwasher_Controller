@@ -17,7 +17,8 @@ And of course you can always buy me a beer, coffee, tea,... via the donation but
 
 ||
 |---|
-|![Dishwasher](hardware/IO.pdf)||
+|![Dishwasher_Schema [PDF]](hardware/IO.pdf)||
+|![Dishwasher_Schema[PDF]](hardware/Dishwasher_HW.png)||
 |**Dishwasher IO**||
 
 ## License
