@@ -1,9 +1,10 @@
-/*
+/**************************************************************************
  * Dishwasher.c - ELECTROLUX
- *
  * Created: 6/24/2017 1:59:46 AM
- * Author : Neutral Atom
-
+ * Author : Amit More (NEUTRAL ATOM)
+ 
+ 
+//PIN OUTS 
  * PINC0 - Door Switch
  * PINC1 - Tank LL	
  * PINC2 - Tank HL
@@ -11,7 +12,7 @@
  * PINC4 - Booster LL
  * PINC5 - Booster HL
  
- */
+ ************************************************************************/
 
 
 #include <atmel_start.h>
