@@ -15,11 +15,16 @@ And of course you can always buy me a beer, coffee, tea,... via the donation but
 
 ## Hardware
 
+
+Video: Testing & trial carried out at Raddisson Hotel, Goregoan --> https://www.youtube.com/watch?v=VfFnfKIvYKQ
+
 ||
 |---|
 |![Dishwasher_Schematic [PDF]](hardware/IO.pdf)||
 |![Dishwasher_Schema[PDF]](hardware/Dishwasher_HW.png)||
 |**Dishwasher IO**||
+
+
 
 ## License
 
